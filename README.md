@@ -15,4 +15,4 @@
 - JavaScript
 - Firebase Realtime Database
 
-For more details, visit our [project page](https://github.com/username/add-to-cart).
+
