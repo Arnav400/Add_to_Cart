@@ -1,3 +1,10 @@
+#⚠️ This link was incorrectly included in my resume for [PrimePick].
+#The correct project with source code is here 👉 [[ GitHub link](https://github.com/Arnav400/PrimePickECOM)]
+
+
+
+
+
 # Add to Cart
 
 **Add to Cart** is a collaborative application where multiple users can add and remove items from a shared shopping list.
