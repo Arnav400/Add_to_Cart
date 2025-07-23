@@ -1,7 +1,3 @@
-#⚠️ This link was incorrectly included in my resume for PrimePick.
-#The correct project with source code is here 👉 [[ GitHub link](https://github.com/Arnav400/PrimePickECOM)]
-
-
 
 
 
